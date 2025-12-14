@@ -1,0 +1,27 @@
+
+*{
+    font-family: "EB Garamond", serif;
+}
+.banner {
+    background-image: url("../img/banner.jpg");
+    height: 500px;
+    background-size: cover;
+    background-position: 20% center;
+    background-repeat: no-repeat;
+    filter: grayscale(80%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left:50px;
+    color:#D2C9C6;
+}
+.img-fluid{
+    margin-bottom: 20px;
+}
+.logonav{
+    width:50px !important;
+}
+.imgmi{
+    width: 250px;
+}
